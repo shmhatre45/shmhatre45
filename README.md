@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shmhatre45
 - 👀 I’m interested in machine learning, data visualisation, data exploration
 - 🌱 I’m currently learning different machine learning algorithms
-- 💞️ I’m looking to collaborate on data science projects 
+- 💞️ I’m looking to apply my skills to data science projects in the organizations 
 - 📫 My Email ID: sachinmhatre4531@gmail.com
 
 <!---
